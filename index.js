@@ -17,9 +17,10 @@ Aşağıdakileri yap:
    1. surucuYasi isimli bir değişken yaz ve bir sayı ata.
    2. Eğer yaş 18'den büyük ise Console'da true, değilse false değeri yazdırın.
 
-   İPUCU: fonksiyon oluşturmaya gerek yok
+  
 */
-
+//mesela buraya bişey ekledim 20. satırı sildim
+//su yazıyodu> İPUCU: fonksiyon oluşturmaya gerek yok
 /*
 Görev 1b - Değerler (puanlamaya dahil değildir)
 
